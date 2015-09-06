@@ -10,3 +10,4 @@ Woodstock Library & Home - Reading and Git practice
 
 Last week, at home and in class, I had a really hard time with Git, so today I will be spending extra time on Git, so that I don't fall behind. I have a good grasp on what Git is and its purpose, but I struggled more with practice.
 # my_first_repository
+# my_first_repository
