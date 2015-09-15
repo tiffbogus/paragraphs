@@ -1,0 +1,27 @@
+p {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width:75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: purple;
+  font-family: cursive;
+  font-style: bold;
+  width: 75%;
+}
+
+.best-types {
+  font-family: courier;
+  color: magenta;
+}
