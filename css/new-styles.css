@@ -1,27 +1,37 @@
-p {
-  width: 50%;
-  font-style: italic;
+h1 {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 48px;
+  color: magenta;
+  text-align: center;
 }
-
-p.author {
-  width:75%;
-  font-style: italic;
-  font-weight: bold;
-}
-
 .flashy {
-  color: red;
+  color: silver;
   font-style: italic;
+  background-color: purple;
+  border: 4px dashed magenta;
+  padding: 10px;
+  margin: 10px;
 }
 
+img {
+  float: left;
+  height: 200px;
+}
 .best {
   color: purple;
   font-family: cursive;
   font-style: bold;
-  width: 75%;
+  border: 4px solid purple;
+  margin: 10px;
+  padding: 10px;
+  background-color: silver;
 }
 
 .best-types {
   font-family: courier;
   color: magenta;
+}
+
+p {
+  height: 200px;
 }
