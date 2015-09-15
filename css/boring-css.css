@@ -1,0 +1,17 @@
+.intro {
+  font-family: courier;
+}
+
+h2.intro {
+  color: blue;
+}
+
+p.intro{
+  width: 75%;
+}
+
+img.intro {
+  border-style: groove;
+  border-width: 2px;
+  border-color: red;
+}
